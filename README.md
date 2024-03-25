@@ -1,8 +1,6 @@
-# NiboBlueConfig_for_ArduinoCarrierBoard
+# NiboBlueConfig für das Arduino-Carrier-Board
 Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board.
 <img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
-Das Arduino-Carrier-Board erhalten Sie bei: www.ase-schlierbach.de
-![image](https://github.com/feslehrer/FA205_Library_for_Arduino/assets/24614659/97ba22d6-7ddc-4444-a178-783176a95a53)
 
 ## Konfiguration des Nibo-Bluetooth-Adapters
 
@@ -19,12 +17,17 @@ Vorsicht: Verwenden Sie keine Sonderzeichen.
 
 5.	Zu Beginn muss die aktuelle Baudrate des NiboBlue eingestellt werden: 9600, 19200, 38400, 57600. 
 <img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/51ad9f2d-c4b5-4f66-aff2-4c88e22559fe" alt="Baudraten-Einstellung" width="300">
-<p>Bei falscher Baudrate wird „Error“ angezeigt und es kann erneut eingestellt werden.
+<br>Bei falscher Baudrate wird „Error“ angezeigt und es kann erneut eingestellt werden.
 
 6.	Nun wird die Verbindung geprüft und die Firmware abgefragt.
 
-7.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue angehängt wird. Dieser sollte eindeutig sein. <p>
-<img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/65a58bee-b0c8-443d-9368-e3a264cae643" alt="Robby-Nr. einstellen" width="300">
+7.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue angehängt wird. Dieser sollte eindeutig sein.
+<br><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/65a58bee-b0c8-443d-9368-e3a264cae643" alt="Robby-Nr. einstellen" width="300">
 
-8.	Zum Schluss kann eine neue Baudrate eingestellt werden.
+9.	Zum Schluss kann eine neue Baudrate eingestellt werden.
 
+<p>Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
+![image](https://github.com/feslehrer/FA205_Library_for_Arduino/assets/24614659/97ba22d6-7ddc-4444-a178-783176a95a53)
+<br> Weitere Ressourcen sind:
++ ATmega328P-Xplained Mini mit Microchip-Studio: https://github.com/feslehrer/FA205.git
++ ArduinoUno/Nano mit ATmega328P und ArduinoIDE: https://github.com/feslehrer/FA205_Library_for_Arduino.git
