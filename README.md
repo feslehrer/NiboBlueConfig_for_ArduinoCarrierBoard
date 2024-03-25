@@ -1,7 +1,7 @@
 # NiboBlueConfig_for_ArduinoCarrierBoard
 Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board.
 ![grafik](https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723)
-<img src="https://user-images.githubusercontent.com/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
+<img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
 
 Konfiguration des Nibo-Bluetooth-Adapters
 
