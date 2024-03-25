@@ -2,7 +2,7 @@
 Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board.
 <br>Diese Beschreibung geht von folgender Hardware aus:
 - Arduino-Carrier-Board      (www.ase-schlierbach.de)
-- ATmega328P-Xplained-mini
+- ATmega328P-Xplained-mini    (<href="https://ase-schlierbach.de/produkt/atmel-studio/" "www.ase-schlierbach.de")
 - NiboBee Bluetooth Adapter
 
 <br><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
