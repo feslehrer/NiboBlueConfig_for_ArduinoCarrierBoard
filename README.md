@@ -18,11 +18,12 @@ Vorsicht: Verwenden Sie keine Sonderzeichen.
 5.	Zu Beginn muss die aktuelle Baudrate des NiboBlue eingestellt werden: 9600, 19200, 38400, 57600. 
 
 ![grafik](https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/51ad9f2d-c4b5-4f66-aff2-4c88e22559fe)
-Bei falscher Baudrate wird „Error“ angezeigt und es kann erneut eingestellt werden.
+<p>Bei falscher Baudrate wird „Error“ angezeigt und es kann erneut eingestellt werden.
 
 6.	Nun wird die Verbindung geprüft und die Firmware abgefragt.
 
-7.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue angehängt wird. Dieser sollte eindeutig sein.
+7.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue angehängt wird. Dieser sollte eindeutig sein. <p>
+
 ![grafik](https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/65a58bee-b0c8-443d-9368-e3a264cae643)
 
 8.	Zum Schluss kann eine neue Baudrate eingestellt werden.
