@@ -32,6 +32,7 @@ Der NiboBee-Bluetooth-Adapter wird über die serielle Schnittstelle mit sogenann
 
 6.	Das Programm ist bereit zur Konfiguration des nächsten Adapters. Die Nummer wird fortlaufend erhöht.
 
+### Sonstige Ressourcen
 <br>Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
 <br><img src="https://user-images.githubusercontent.com/24614659/236320998-94544814-81e8-421b-9627-0c5e2c16ead0.png" alt="Arduino-Carrier-Board" width="600">
 <br>Weitere Ressourcen zum Carrier-Board sind:
