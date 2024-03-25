@@ -9,7 +9,7 @@ Der NiboBee-Bluetooth-Adapter wird über die serielle Schnittstelle mit sogenann
 1.	Verbinden Sie den NiboBee-Bluetooth-Adapter gemäß des Schaltschemas oben mit dem Carrier-Board.
 
 2.	Programmieren Sie den NiboBlue-Adapter mit einem geeigneten Programmiertool. Z.B. Microchip-Studio/DeviceProgramming.
-<img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/85b13a33-4f7d-408b-80d8-36e6db6d7200" alt="Microchip-Studio: Device Programming" width="500">
+<t><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/85b13a33-4f7d-408b-80d8-36e6db6d7200" alt="Microchip-Studio: Device Programming" width="500">
 
 3.	Name und Pin können im Programmcode in den String-Variablen name[] und pin[] angepasst werden. Standard: Name = Robby, Pin = 1234
 Vorsicht: Verwenden Sie keine Sonderzeichen.
