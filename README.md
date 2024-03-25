@@ -3,7 +3,7 @@ Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-B
 <br>Diese Beschreibung geht von folgender Hardware aus:
 - <a href="https://ase-schlierbach.de">Arduino-Carrier-Board </a>
 - <a href="https://ase-schlierbach.de/produkt/atmel-studio/">ATmega328pXplained-Mini</a>
-- NiboBee Bluetooth Adapter
+- <a href="[https://ase-schlierbach.de/produkt/atmel-studio/](https://www.reichelt.de/bluetooth-modul-fuer-nibobee-nibo-bee-blue-p129272.html?&nbc=1&trstct=lsbght_sldr::91023)">NiboBee Bluetooth Adapter</a>
 
 <br><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
 
