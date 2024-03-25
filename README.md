@@ -33,7 +33,7 @@ Vorsicht: Verwenden Sie keine Sonderzeichen.
 9.	Zum Schluss kann eine neue Baudrate eingestellt werden.
 
 <br>Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
-<br><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/97ba22d6-7ddc-4444-a178-783176a95a53" alt="Robby-Nr. einstellen" width="300">
+<br><img src="https://user-images.githubusercontent.com/24614659/236320998-94544814-81e8-421b-9627-0c5e2c16ead0.png" alt="Arduino-Carrier-Board" width="600">
 <br>Weitere Ressourcen zum Carrier-Board sind:
 + ATmega328P-Xplained Mini mit Microchip-Studio: https://github.com/feslehrer/FA205.git
 + ArduinoUno/Nano mit ATmega328P und ArduinoIDE: https://github.com/feslehrer/FA205_Library_for_Arduino.git
