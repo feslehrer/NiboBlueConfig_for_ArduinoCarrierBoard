@@ -38,3 +38,5 @@ Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
 <br>Weitere Ressourcen zum Carrier-Board sind:
 + ATmega328P-Xplained Mini mit Microchip-Studio: https://github.com/feslehrer/FA205.git
 + ArduinoUno/Nano mit ATmega328P und ArduinoIDE: https://github.com/feslehrer/FA205_Library_for_Arduino.git
+
+letzte Änderung: 25.3.2024@Rah
