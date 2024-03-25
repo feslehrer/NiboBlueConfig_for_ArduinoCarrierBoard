@@ -1,9 +1,9 @@
 # NiboBlueConfig für das Arduino-Carrier-Board
 Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board. Das Tool ist insbesondere nützlich, wenn für den Unterricht mehrere NiboBlues konfiguriert werden müssen. Damit haben hat jeder BT-Dongel im Klassenraum einen eindeutigen Namen, der leicht zugeordnet werden kann.  
 <br>Diese Beschreibung geht von folgender Hardware aus:
-- <a href="https://ase-schlierbach.de">Arduino-Carrier-Board </a>
-- <a href="https://ase-schlierbach.de/produkt/atmel-studio/">ATmega328pXplained-Mini</a>
-- <a href="https://www.reichelt.de/bluetooth-modul-fuer-nibobee-nibo-bee-blue-p129272.html?&nbc=1&trstct=lsbght_sldr::91023">NiboBee Bluetooth Adapter</a>
+- <a href="https://ase-schlierbach.de">Arduino-Carrier-Board </a> (AS-Elektronik)
+- <a href="https://ase-schlierbach.de/produkt/atmel-studio/">ATmega328pXplained-Mini</a> (AS-Elektronik)
+- <a href="https://www.reichelt.de/bluetooth-modul-fuer-nibobee-nibo-bee-blue-p129272.html?&nbc=1&trstct=lsbght_sldr::91023">NiboBee Bluetooth Adapter</a> (Reichelt)
 
 <br><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
 
