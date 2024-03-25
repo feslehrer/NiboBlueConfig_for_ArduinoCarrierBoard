@@ -18,17 +18,18 @@ Der NiboBee-Bluetooth-Adapter wird über die serielle Schnittstelle mit sogenann
 
 ### Anleitung Konfigurationsprogramm
 3.	Name und Pin des Adapters sind in der Firmware vorgegeben: Name = Robby, Pin = 1234
+<br><t>Hinweis: Für eigene Anpassungen kann das MicrochipStudio-Projekt im Ordner "niboConfigAVR" angepasst werden. Das Projekt wurde mit Hilfe der Technischen Richtlinie FA205 umgesetzt.
 
-4.	Zu Beginn muss die aktuelle Baudrate des NiboBlue eingestellt werden: 9600, 19200, 38400, 57600. 
+5.	Zu Beginn muss die aktuelle Baudrate des NiboBlue eingestellt werden: 9600, 19200, 38400, 57600. 
 <t><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/51ad9f2d-c4b5-4f66-aff2-4c88e22559fe" alt="Baudraten-Einstellung" width="300">
 <br>Bei falscher Baudrate wird „Error“ angezeigt und es kann erneut eingestellt werden.
 
-5.	Nun wird die Verbindung geprüft und die Firmware abgefragt.
+6.	Nun wird die Verbindung geprüft und die Firmware abgefragt.
 
-6.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue (Robby) angehängt wird. Dieser sollte eindeutig sein.
+7.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue (Robby) angehängt wird. Dieser sollte eindeutig sein.
 <br><t><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/65a58bee-b0c8-443d-9368-e3a264cae643" alt="Robby-Nr. einstellen" width="300">
 
-7.	Zum Schluss kann eine neue Baudrate eingestellt werden.
+8.	Zum Schluss kann eine neue Baudrate eingestellt werden.
 
 <br>Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
 <br><img src="https://user-images.githubusercontent.com/24614659/236320998-94544814-81e8-421b-9627-0c5e2c16ead0.png" alt="Arduino-Carrier-Board" width="600">
