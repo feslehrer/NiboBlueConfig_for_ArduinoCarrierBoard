@@ -1,7 +1,7 @@
 # NiboBlueConfig für das Arduino-Carrier-Board
 Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board.
-Diese Beschreibung geht von folgender Hardware aus:
-- Arduino-Carrier-Board
+<br>Diese Beschreibung geht von folgender Hardware aus:
+- Arduino-Carrier-Board      (www.ase-schlierbach.de)
 - ATmega328P-Xplained-mini
 - NiboBee Bluetooth Adapter
 
@@ -32,8 +32,8 @@ Vorsicht: Verwenden Sie keine Sonderzeichen.
 
 9.	Zum Schluss kann eine neue Baudrate eingestellt werden.
 
-<p>Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
-![image](https://github.com/feslehrer/FA205_Library_for_Arduino/assets/24614659/97ba22d6-7ddc-4444-a178-783176a95a53)
-<br> Weitere Ressourcen sind:
+<br>Das Arduino-Carrier-Board ist unter www.ase-schlierbach.de erhältlich
+<br><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/97ba22d6-7ddc-4444-a178-783176a95a53" alt="Robby-Nr. einstellen" width="300">
+<br>Weitere Ressourcen zum Carrier-Board sind:
 + ATmega328P-Xplained Mini mit Microchip-Studio: https://github.com/feslehrer/FA205.git
 + ArduinoUno/Nano mit ATmega328P und ArduinoIDE: https://github.com/feslehrer/FA205_Library_for_Arduino.git
