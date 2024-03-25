@@ -2,7 +2,7 @@
 Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board.
 <img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/21ef073d-c8ab-4bad-b23e-c3f9dcc63723" alt="Anschluss des NiboBee-Bluetooth-Adapter" width="600">
 
-Konfiguration des Nibo-Bluetooth-Adapters
+## Konfiguration des Nibo-Bluetooth-Adapters
 
 Der NiboBee-Bluetooth-Adapter wird über die serielle Schnittstelle mit sogenannten AT-Befehlen konfiguriert. Dazu existiert ein Konfigurationsprogramm  für den ATmega328P-Controller, in dem der Name, die PIN und die Baudrate des Adapters eingestellt werden kann. 
 
@@ -16,15 +16,13 @@ Vorsicht: Verwenden Sie keine Sonderzeichen.
 4.	Übersetzen und Übertragen Sie das Programm auf den Controller.
 
 5.	Zu Beginn muss die aktuelle Baudrate des NiboBlue eingestellt werden: 9600, 19200, 38400, 57600. 
-
-![grafik](https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/51ad9f2d-c4b5-4f66-aff2-4c88e22559fe)
+<img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/51ad9f2d-c4b5-4f66-aff2-4c88e22559fe" alt="Baudraten-Einstellung" width="300">
 <p>Bei falscher Baudrate wird „Error“ angezeigt und es kann erneut eingestellt werden.
 
 6.	Nun wird die Verbindung geprüft und die Firmware abgefragt.
 
 7.	Anschließend muss eine Nummer eingestellt werden, die an den Namen des NiboBlue angehängt wird. Dieser sollte eindeutig sein. <p>
-
-![grafik](https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/65a58bee-b0c8-443d-9368-e3a264cae643)
+<img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/65a58bee-b0c8-443d-9368-e3a264cae643" alt="Robby-Nr. einstellen" width="300">
 
 8.	Zum Schluss kann eine neue Baudrate eingestellt werden.
 
