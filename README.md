@@ -1,5 +1,5 @@
 # NiboBlueConfig für das Arduino-Carrier-Board
-Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board. Das Tool ist insbesondere nützlich, wenn für den Unterricht mehrere NiboBlues konfiguriert werden müssen. Damit haben hat jeder BT-Dongel im Klassenraum einen eindeutigen Namen, der leicht zugeordnet werden kann.  
+Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-Board. Das Tool ist insbesondere nützlich, wenn für den Unterricht mehrere NiboBlues konfiguriert werden müssen. Damit hat jeder BT-Dongel im Klassenraum einen eindeutigen Namen, der leicht zugeordnet werden kann.  
 <br>Diese Beschreibung geht von folgender Hardware aus:
 - <a href="https://ase-schlierbach.de">Arduino-Carrier-Board </a> (AS-Elektronik)
 - <a href="https://ase-schlierbach.de/produkt/atmel-studio/">ATmega328pXplained-Mini</a> (AS-Elektronik)
