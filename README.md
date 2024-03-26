@@ -17,7 +17,7 @@ Der NiboBee-Bluetooth-Adapter wird über die serielle Schnittstelle mit sogenann
 <br><t><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/85b13a33-4f7d-408b-80d8-36e6db6d7200" alt="Microchip-Studio: Device Programming" width="500">
 
 ### Anleitung Konfigurationsprogramm
-1.	Namensprefix (Robby) und Pin (1234) des Adapters sind in der Firmware vorgegeben. Eigene Anpassungen können im MicrochipStudio-Projekt im Ordner "niboConfigAVR" vorgenommen werden. Das Projekt wurde mit Hilfe der Technischen Richtlinie FA205 umgesetzt.
+1.	Namensprefix (Robby) und Pin (1234) des Adapters sind in der Firmware vorgegeben. Eigene Anpassungen können im MicrochipStudio-Projekt im Ordner "niboConfigAVR" vorgenommen werden. Das Projekt wurde mit Hilfe der **<a href="https://github.com/feslehrer/FA205.git">Technischen Richtlinie FA205</a>** umgesetzt.
 
 2.	Zu Beginn muss die aktuelle Baudrate des NiboBlue eingestellt werden: 9600, 19200, 38400, 57600. 
 <t><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/51ad9f2d-c4b5-4f66-aff2-4c88e22559fe" alt="Baudraten-Einstellung" width="300">
