@@ -11,7 +11,7 @@ Hex-File zur Konfiguration des Nibo Bluetooth-Adapters mit dem Arduino-Carrier-B
 
 Der NiboBee-Bluetooth-Adapter wird über die serielle Schnittstelle mit sogenannten AT-Befehlen konfiguriert. Dazu existiert ein Konfigurationsprogramm  für den ATmega328P-Controller, in dem der Name, die PIN und die Baudrate des Adapters eingestellt werden kann. 
 ### Vorbereitung Hardware/Firmware
-1.	Verbinden Sie den NiboBee-Bluetooth-Adapter gemäß des Schaltschemas oben mit dem Carrier-Board.
+1.	Verbinden Sie den NiboBee-Bluetooth-Adapter gemäß dem Schaltschema oben mit dem Carrier-Board.
 
 2.	Programmieren Sie die Firmware **niboConfigAVR.elf** mit einem geeigneten Programmiertool. Z.B. Microchip-Studio/DeviceProgramming. 
 <br><t><img src="https://github.com/feslehrer/NiboBlueConfig_for_ArduinoCarrierBoard/assets/24614659/85b13a33-4f7d-408b-80d8-36e6db6d7200" alt="Microchip-Studio: Device Programming" width="500">
